@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 PatrickTranslate
+# 🚀 PatrickTranslateApp
 
 **PatrickTranslate** is a fast, lightweight, and modern desktop application built with Electron.js. It allows users to capture any region on their screen, instantly extract text using OCR technology, and translate it in real-time.
 
